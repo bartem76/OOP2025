@@ -3,7 +3,7 @@ from pygame.draw import *
 
 pygame.init()
 
-FPS = 30
+FPS = 50
 screen = pygame.display.set_mode((400, 400))
 
 screen.fill((220, 220, 220))
